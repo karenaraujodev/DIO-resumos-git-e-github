@@ -4,7 +4,7 @@
 
 
 
-Repositório para armazenar resumos do curso de versionamento de código com Git e Github da \[Digital Innovation One](https://web.dio.me/).
+Repositório para armazenar resumos do curso de versionamento de código com Git e Github da [Digital Innovation One](https://web.dio.me/).
 
 
 
