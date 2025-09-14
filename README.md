@@ -21,16 +21,9 @@ Repositório para armazenar resumos do curso de versionamento de código com Git
 
 | Aulas  | Resumos |
 |--------|--------|
-|Aula 01 | [resumo]()|
+|Aula 01 | [resumo](https://github.com/karenaraujodev/DIO-resumos-git-e-github/blob/main/resumo-git-github/aula01.md)|
 |Aula 02 | [resumo]()|
 
-
-
-```
-
-Git init
-
-```
 
 ## 🔎Referencias
 
