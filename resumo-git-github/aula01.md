@@ -20,7 +20,7 @@ Ele guarda todas as versões dos arquivos, quem alterou, quando alterou e o que 
 
   - Dia 3 → Acrescentou conclusão
 
-## Tipos de sistema de controle de versão:
+## 📚 Tipos de sistema de controle de versão:
 ### Controle de versão centralizado (CVCS)
 - Existe um servidor central que guarda todos os arquivos e versões.
 - Os desenvolvedores se conectam a esse servidor para baixar e enviar alterações.
@@ -30,3 +30,4 @@ Ele guarda todas as versões dos arquivos, quem alterou, quando alterou e o que 
 - Cada desenvolvedor tem uma cópia completa do repositório.
 - Dá para trabalhar mesmo sem internet e depois sincronizar com os outros.
 - Mais rápido, seguro e confiável.
+
