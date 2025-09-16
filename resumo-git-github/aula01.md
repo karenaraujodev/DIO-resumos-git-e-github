@@ -13,7 +13,7 @@ Ele guarda todas as versões dos arquivos, quem alterou, quando alterou e o que 
 
   - trabalho-final-revisado-ultimo.docx
     
-- Com versionamento mantemos tudo em um arquivo só, mas a ferramenta de versionamento guarda todo o histórico:
+- Com versionamento mantemos tudo em um arquivo só, mas a ferramenta guarda todo o histórico:
   - Dia 1 → Adicionou introdução
 
   - Dia 2 → Corrigiu erros de português
@@ -30,5 +30,6 @@ Ele guarda todas as versões dos arquivos, quem alterou, quando alterou e o que 
 - Cada desenvolvedor tem uma cópia completa do repositório.
 - Dá para trabalhar mesmo sem internet e depois sincronizar com os outros.
 - Mais rápido, seguro e confiável.
+
 
 
