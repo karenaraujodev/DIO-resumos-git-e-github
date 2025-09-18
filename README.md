@@ -25,8 +25,11 @@ Repositório para armazenar resumos do curso de versionamento de código com Git
 |Aula 02 | [resumo](https://github.com/karenaraujodev/DIO-resumos-git-e-github/blob/main/resumo-git-github/aula02.md)|
 |Aula 03 | [resumo](https://github.com/karenaraujodev/DIO-resumos-git-e-github/blob/main/resumo-git-github/aula03.md)|
 |Aula 04 | [resumo](https://github.com/karenaraujodev/DIO-resumos-git-e-github/blob/main/resumo-git-github/aula04.md)|
+|Aula 05 | [resumo](https://github.com/karenaraujodev/DIO-resumos-git-e-github/blob/main/resumo-git-github/aula05.md)|
+|Aula 06 | [resumo](https://github.com/karenaraujodev/DIO-resumos-git-e-github/blob/main/resumo-git-github/aula06.md)|
+|Aula 07 | [resumo](https://github.com/karenaraujodev/DIO-resumos-git-e-github/blob/main/resumo-git-github/aula07.md)|
 
-## 🔎Referencias
+## 🔎Referências
 
 - [Digital Innovation One](https://web.dio.me/)
 
