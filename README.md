@@ -22,6 +22,9 @@ Repositório para armazenar meus resumos do curso de versionamento de código co
 |Aula 07 | [resumo](https://github.com/karenaraujodev/DIO-resumos-git-e-github/blob/main/resumo-git-github/aula07.md)|
 |Aula 08 | [resumo](https://github.com/karenaraujodev/DIO-resumos-git-e-github/blob/main/resumo-git-github/aula08.md)|
 |Aula 09 | [resumo](https://github.com/karenaraujodev/DIO-resumos-git-e-github/blob/main/resumo-git-github/aula09.md)|
+|Aula 10 | [resumo](https://github.com/karenaraujodev/DIO-resumos-git-e-github/blob/main/resumo-git-github/aula10.md)|
+|Aula 11 | [resumo](https://github.com/karenaraujodev/DIO-resumos-git-e-github/blob/main/resumo-git-github/aula11.md)|
+|Aula 12 | [resumo](https://github.com/karenaraujodev/DIO-resumos-git-e-github/blob/main/resumo-git-github/aula12.md)|
 
 ## 🔎Referências
 
