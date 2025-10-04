@@ -32,3 +32,8 @@ Repositório para armazenar meus resumos do curso de versionamento de código co
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação Github](https://docs.github.com)
   
+## 🧾 Licença
+
+Este projeto está sob a licença [MIT](LICENSE).  
+
+Feito com 💙 por Karen Araújo Alves durante o curso versionamento de código da [Digital Innovation One](https://web.dio.me/).
